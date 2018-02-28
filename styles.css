@@ -1,0 +1,33 @@
+body{
+    font-size: 12px;
+    width: 600px;
+}
+.heading{
+    margin: 10px 20px 0px 20px;
+}
+.picture{
+    width: 300px;
+    margin: 10px 20px 10px 20px;
+}
+.Details{
+    font-weight: 600
+}
+.italics{
+    font-style: italic;
+    margin: 10px;
+}
+.boxed{
+    width: 340px;
+    box-shadow: 10px 10px 5px 0px rgba(209,209,209,1);
+    border: 1px solid grey;
+}
+.box{
+    width: 300px;
+    border: 1px solid grey;
+    margin: 0px 20px 10px 20px;
+}
+.margin{
+    margin: 10px;
+}
+
+
